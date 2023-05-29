@@ -1,0 +1,62 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  padding: 20px;
+  color: #fff;
+  text-align: center;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.books, .gifts, .contact {
+  padding: 50px 0;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.row {
+  margin: 0 -15px;
+}
+
+.col-md-4 {
+  padding: 0 15px;
+}
+
+.book, .gift {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.book img, .gift img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.btn-primary {
+  background-color: #333;
+  border-color: #333;
+}
+
+footer {
+  background-color: #333;
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+}
+
+footer p {
+  margin: 0;
+}
